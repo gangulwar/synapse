@@ -73,7 +73,3 @@ This question inspired the creation of Synapse — making file sharing smooth, c
 <a href='https://play.google.com/store/apps/details?id=com.gangulwar.synapse'>
   <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='200'/>
 </a>
-
----
-
-<p align="center">Breaking barriers in cross-platform file sharing, one transfer at a time.</p>
